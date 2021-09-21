@@ -1,7 +1,7 @@
 ,Minimum Capacity (MW)
 hard coal,51.53846153846154
 natural gas nonpeaker,50.68461538461538
-nuclear,581.5
+nuclear,575.5
 hydro,1.0
 onshore wind,5.0
 solar PV,2.0
@@ -9,7 +9,7 @@ solar thermal,50.0
 biomass,1.0
 geothermal,10.0
 petroleum,1.0
-natural gas peaker,50.05333333333335
+natural gas peaker,51.98333333333335
 lignite,50.0
 offshore wind,5.0
 crude oil,10.0
